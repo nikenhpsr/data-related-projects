@@ -11,6 +11,7 @@
 ## Table of Contents
   * [Who am I?](##who-am-i?)
   * [Python based projects](#python-based-projects)
+    * [Convolutional Neural Networks](#cnn-for-image-classification)
   * [R based projects](#r-based-projects)
   * [SQL based projects](#sql-based-projects)
   * [Other Works](#other-works)
@@ -20,6 +21,8 @@
 Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial science, statistics, data science fields. Here I show you some of my works. My projects are mostly made with the help of R, Python, and SQL. The analyzes that I use are all based on statistics, mathematics, and probability. If you have any questions or wanting to collaborate with me you can reach me through e-mail at [hpsri.niken@gmail.com](mailto:hpsri.niken@gmail.com) or [LinkedIn account](https://www.linkedin.com/in/nikenhapsari/). I'll be glad to works with other collaborators.
 
 ## Python Based Projects
+  ### CNN for Image Classification
+  In this project
 
 
 
