@@ -1,4 +1,8 @@
-# 🔥 ** Github Project Template**
+<table align="center">
+<tr>
+<td align="center" width="9999">
+  
+# Data Scientist Learning Path
 
 - 👋 Hi, I’m @nikenhpsr
 - 👀 I’m interested in Actuarial Science, Statistics, Data Science, Data Analyst, and Big Data
