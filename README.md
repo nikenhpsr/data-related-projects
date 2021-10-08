@@ -43,7 +43,7 @@ BI 7-Day Repo Rate is a new monetary policy that has shorter time period than BI
 In a sluggish market condition as a result of the coronavirus, it is the right time to invest, especially in stock instruments and in derivatives of these stocks known as stock options. There are some investment strategies that can be used to protected our funds from getting losses. In this study, the value of the Asian option price on KLBF shares will be calculated with the Strangle and Bull Spread investment strategy.
 
 #### 2. [GPV Reserve for Endowment Policy with Python (Monthly & Annualy Valuation).](https://youtu.be/41WKb5JQR68) Spoken in Bahasa.
-Reserves in actuaries are the amounts of money that must be owned by the insurance company as a form of liability. Therefore, every insurance company must have reserves, and proper calculations are needed to calculate the amount of reserves. One method of calculating reserves is Gross Premium Valuation (GPV). This video will explain about the calculation of reserves using GPV on a multi-decrement term life insurance product using python.
+Reserves in actuaries are the amounts of money that must be owned by the insurance company as a form of liability. Therefore, every insurance company must have reserves, and proper calculations are needed to calculate the amount of reserves. One method of calculating reserves is Gross Premium Valuation (GPV). This video will explain about the calculation of reserves using GPV on a multi-decrement endowment policy using python.
 
 <!---
 nikenhpsr/nikenhpsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
