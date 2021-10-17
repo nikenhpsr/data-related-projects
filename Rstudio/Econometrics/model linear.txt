@@ -1,0 +1,22 @@
+y=price
+x1=assess
+x2=bdrms
+x3=lotsize
+x4=sqrft
+x5=colonial
+y2=lprice
+x12=lassess
+x22=llotsize
+x23=lsqrft
+
+
+#model pertama y=x1 ditolak
+#model kedua y=x1+x2 ditolak
+#model ketiga y=x1+x2+x3 ditolak
+#model keempat y=x1+x2+x3+x4 ditolak
+#model kelima y=x1+x2+x3+x4+x5 ditolak
+#model keenam  y2=x12 diterima. R-squared:0.7772
+#model ketujuh y2=x12+x22 diterima. R-squared: 0.7786
+#model kedelapan y2=x12+x22+x23 diterima. R-squared: 0.7787
+#model kesembilan y2=x2+x12+x22+x23 diterima. R-squared: 0.7804
+#model kesepuluh y2=x2+x5+x12+x22+x23 diterima. R-squared: 0.7859
