@@ -1,11 +1,12 @@
 #Installing packages
 install.packages("ggplot2")
 install.packages("tidyverse")
-devtools::install_github("kassmbara/datarium")
+install.packages("devtools")
 
 #Load the packages
 library(ggplot2)
 library(tidyverse)
+devtools::install_github("kassambara/datarium")
 
 # Load the data
 data("marketing", package = "datarium")
