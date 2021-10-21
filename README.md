@@ -13,7 +13,7 @@
   * [Python based projects](#python-based-projects)
     * [Convolutional Neural Networks](#cnn-for-image-classification)
   * [R based projects](#r-based-projects)
-    * [Simple Linear Regression](#simple-linear-regression)
+    * [Econometric Works](#econometric-works)
   * [SQL based projects](#sql-based-projects)
   * [Other Works](#other-works)
   
@@ -27,7 +27,8 @@ Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial scie
 
 
 ## R Based Projects
-  ### Simple Linear Regression
+  ### [Econometric Works](https://github.com/nikenhpsr/projects/tree/main/Rstudio/Econometrics)
+  #### [Simple Linear Regression](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis.ipynb)
   This project aim to predict quantitative outcome of Sales ( *y* ) on the basis of one single variable, Youtube advertising ( *x* ). And thus evaluate the model whether linear regression suitable for this data or not. You can read more detail [in here](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis.ipynb)
   
   *More projects will be uploaded soon*
