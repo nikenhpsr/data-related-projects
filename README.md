@@ -13,6 +13,7 @@
   * [Python based projects](#python-based-projects)
     * [Convolutional Neural Networks](#cnn-for-image-classification)
   * [R based projects](#r-based-projects)
+    * [Simple Linear Regression](#simple-linear-regression)
   * [SQL based projects](#sql-based-projects)
   * [Other Works](#other-works)
   
