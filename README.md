@@ -21,19 +21,21 @@
 Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial science, statistics, data science fields. Here I show you some of my works. My projects are mostly made with the help of R, Python, and SQL. The analyzes that I use are all based on statistics, mathematics, and probability. If you have any questions or wanting to collaborate with me, you can reach me through e-mail at [hpsri.niken@gmail.com](mailto:hpsri.niken@gmail.com) or [LinkedIn account](https://www.linkedin.com/in/nikenhapsari/). I'll be glad to works with other collaborators.
 
 ## Python Based Projects
-  ### CNN for Image Classification
-  In this project
+  *Soon to be uploaded*
 
 
 
 ## R Based Projects
   ### Simple Linear Regression
   This project aim to predict quantitative outcome of Sales ( *y* ) on the basis of one single variable, Youtube advertising ( *x* ). And thus evaluate the model whether linear regression suitable for this data or not. You can read more detail [in here](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis.ipynb)
+  
+  *More projects will be uploaded soon*
 
 
 
 ## SQL Based Projects
 
+  *Will be uploaded soon*
 
 ## Other Works
 ### Published on 2021
