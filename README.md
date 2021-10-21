@@ -2,7 +2,7 @@
 <tr>
 <td align="center" width="9999">
   
-# Niken's Project Documentations
+# Project Documentations
   
 </td>
 </tr>
@@ -28,7 +28,7 @@ Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial scie
 
 ## R Based Projects
   ### Simple Linear Regression
-  This project aim to predict quantitative outcome of Sales *y* on the basis of one single variable, Youtube advertising *x*. And thus evaluate the model whether linear regression suitable for this data or not. You can read more detail [in here](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/01_Parameter_Estimation_in_Simple_Linear_Regression.ipynb)
+  This project aim to predict quantitative outcome of Sales *y* on the basis of one single variable, Youtube advertising *x*. And thus evaluate the model whether linear regression suitable for this data or not. You can read more detail [in here](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis.ipynb)
 
 
 
