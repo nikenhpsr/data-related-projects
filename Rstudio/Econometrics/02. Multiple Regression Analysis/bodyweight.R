@@ -1,20 +1,18 @@
-#anreg bb
+#Load and defining the data
+data=read.csv(file.choose(), sep = ";", header = T)
+attach(data)
+head(data)
 
-setwd("E:/Kuliah/Semester 6/Ekonometrika/prak/")
+#Defining variables
+y=as.matrix(data[,7])
+n=nrow(y)
+u=matrix(c(1),nrow=n,ncol=1)
+x0=as.matrix(data[,c(1,2,3,4,5,6)])
+x=cbind(u,x0)
 
-data <- read.csv("berat_badan.csv")
-n=nrow(data)
-u=matrix(c(1),nrow=50, ncol=1)
-X0=as.matrix(data[,1:6])
-X= cbind(u,X0)
-Y=as.matrix(data[,7])
+#OLS Estimation of beta using matrix
+b=solve(t(x)%*%x)%*%t(x)%*%y
 
-#b = (X'X)-1X'Y
-
-b=solve(t(X)%*%X)%*%t(X)%*%Y
-
-k=ncol(X)
-e= Y-X%*%b
-s2= t(e)%*%e/(n-k)
-
-se= sqrt(s2%*%diag(solve(t(X)%*%X)))
+#Estimation using lmtest packages
+model <- lm(y~x1+x2+x3+x4+x5+x6, data = data)
+summary(model)
