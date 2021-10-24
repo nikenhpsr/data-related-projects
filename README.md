@@ -28,8 +28,11 @@ Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial scie
 
 ## R Based Projects
   ### [Econometric Works](https://github.com/nikenhpsr/projects/tree/main/Rstudio/Econometrics)
-  #### [Simple Linear Regression](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis.ipynb)
-  This project aim to predict quantitative outcome of Sales ( *y* ) on the basis of one single variable, Youtube advertising ( *x* ). And thus evaluate the model whether linear regression suitable for this data or not. You can read more detail [in here](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis.ipynb)
+  #### [Simple Linear Regression](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis_In_R.ipynb)
+  This project aim to predict quantitative outcome of Sales ( *y* ) on the basis of one single variable, Youtube advertising ( *x* ). And thus evaluate the model whether linear regression suitable for this data or not. You can read more detail [in here](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/01.%20Simple%20Regression%20Analysis/Simple_Linear_Regression_Analysis_In_R.ipynb)
+  
+  #### [Multiple Linear Regression](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/02.%20Multiple%20Regression%20Analysis/Multiple_Linear_Regression_Analysis_in_R.ipynb)
+  This project aim to predict quantitative outcome of body weight ( *y* ) on the basis of several variables such as height, head circumference, bust, right thigh circumference, right arm circumference, and waist circumference. And thus evaluate the model whether linear regression suitable for this data or not. You can read more detail [in here](https://github.com/nikenhpsr/projects/blob/main/Rstudio/Econometrics/02.%20Multiple%20Regression%20Analysis/Multiple_Linear_Regression_Analysis_in_R.ipynb)
   
   *More projects will be uploaded soon*
 
