@@ -1,7 +1,11 @@
-Y = Berat badan
-X1 = Tinggi Badan
-X2 = Lingkar Pinggang
-X3 = Lingkar Dada
-X4 = Lingkar Paha Kanan
-X5 = Lingkar Lengan Kanan
-X6 = Lingkar Kepala
+The data taken are observations of 50 men aged 20-35 years with the following variables:
+
+y = Weight 
+x1 = Height
+x2 = Waist Circumference
+x3 = Bust
+x4 = Right Thigh Circumference
+x5 = Right Arm Circumference
+x6 = Head Circumference
+
+All the data were taken in cm
