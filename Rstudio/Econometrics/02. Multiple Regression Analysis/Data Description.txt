@@ -1,0 +1,7 @@
+Y = Berat badan
+X1 = Tinggi Badan
+X2 = Lingkar Pinggang
+X3 = Lingkar Dada
+X4 = Lingkar Paha Kanan
+X5 = Lingkar Lengan Kanan
+X6 = Lingkar Kepala
