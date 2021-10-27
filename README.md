@@ -24,7 +24,8 @@ Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial scie
 ## Python Based Projects
   ### [GPV Reserve of Endowment Policy with Monthly and Anually Valuation](https://github.com/nikenhpsr/projects/blob/main/Python/GPV%20Reserve%20of%20Endowment%20Policy%20with%20Monthly%20and%20Anually%20Valuation/GPV_Reserve.ipynb)
   This project aim to calculate GPV Reserve for Endowment Policy based on Monthly and Annualy Valuation. The output of this code are gross premium, gpv reserve for each year, and plots of gross premium, gpv reserves, policy fee, admin fee, and many more.
-  *Soon to be uploaded*
+  
+  *More projects will be uploaded soon*
 
 
 
