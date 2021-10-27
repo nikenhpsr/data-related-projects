@@ -47,11 +47,11 @@ Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial scie
 
 ## Other Works
 ### Published on 2021
-#### 1. [Peramalan Tingkat Bunga BI 7-Day Repo Rate Menggunakan ARIMA serta Dampaknya bagi Investor – Published.](https://drive.google.com/file/d/1poTaauW9-2iXAqxeTtvwRAF09T3SwaHI/view?usp=sharing) Jurnal KINERJA, Vol. 18 (2), Universitas Mulawarman, e-ISSN 2528-1127. Written in Bahasa.
+#### 1. [Peramalan Tingkat Bunga BI 7-Day Repo Rate Menggunakan ARIMA serta Dampaknya bagi Investor – Published.](https://drive.google.com/file/d/1poTaauW9-2iXAqxeTtvwRAF09T3SwaHI/view?usp=sharing) Jurnal KINERJA, Vol. 18 (2), Universitas Mulawarman,  p-ISSN 1907-3011, e-ISSN 2528-1127. Written in Bahasa.
 The journal aims to predict BI 7-Day Repo Rate for five months from Dec 20 until Apr 21. Hopefully it can become a reference for investors to allocate their funds in investment or save it in banking institutes.
 
 ### Published on 2020
-#### 1. [Penilaian Opsi Asia dengan Strategi Investasi Strangle dan Bull Spread – Presented and Published.](https://drive.google.com/file/d/1zJEgSxND7V_oeeJLZex1ZzkxxxuEGRUH/view?usp=sharing) Prosiding Seminar Nasional Statistika IX, Vol. 9 (1), Universitas Padjadjaran, e-ISSN 2599-2546. Written and Spoken in Bahasa.
+#### 1. [Penilaian Opsi Asia dengan Strategi Investasi Strangle dan Bull Spread – Presented and Published.](https://drive.google.com/file/d/1zJEgSxND7V_oeeJLZex1ZzkxxxuEGRUH/view?usp=sharing) Prosiding Seminar Nasional Statistika IX, Vol. 9 (1), Universitas Padjadjaran, p-ISSN 2087-2590, e-ISSN 2599-2546. Written and Spoken in Bahasa.
 In a sluggish market condition as a result of the coronavirus, it is the right time to invest, especially in the derivatives of these stocks known as stock options. In this study, the value of the Asian option price on KLBF shares will be calculated with the Strangle and Bull Spread investment strategy.
 
 #### 2. [GPV Reserve for Endowment Policy with Python (Monthly & Annualy Valuation).](https://youtu.be/41WKb5JQR68) Spoken in Bahasa.
