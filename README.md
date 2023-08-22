@@ -22,7 +22,7 @@
 Hello, I'm Niken Hapsari Agustiningrum. I have utmost interest in actuarial science, statistics, data science fields. Here I show you some of my works. My projects are mostly made with the help of R, Python, and SQL. The analyzes that I use are all based on statistics, mathematics, and probability. If you have any questions or wanting to collaborate with me, you can reach me through e-mail at [hpsri.niken@gmail.com](mailto:hpsri.niken@gmail.com) or [LinkedIn account](https://www.linkedin.com/in/nikenhapsari/). I'll be glad to works with other collaborators.
 
 ## Python Based Projects
-  ### [GPV Reserve of Endowment Policy with Monthly and Anually Valuation](https://github.com/nikenhpsr/projects/blob/main/Python/GPV%20Reserve%20of%20Endowment%20Policy%20with%20Monthly%20and%20Anually%20Valuation/GPV_Reserve.ipynb)
+  ### [GPV Reserve of Endowment Policy with Monthly and Anually Valuation](https://github.com/nikenhpsr/data-related-projects/blob/main/Python/GPV%20Reserve%20of%20Endowment%20Policy%20with%20Monthly%20and%20Anually%20Valuation/GPV_Reserve.ipynb)
   This project aim to calculate GPV Reserve for Endowment Policy based on Monthly and Annualy Valuation. The output of this code are gross premium, gpv reserve for each year, and plots of gross premium, gpv reserves, policy fee, admin fee, and many more.
   
   *More projects will be uploaded soon*
